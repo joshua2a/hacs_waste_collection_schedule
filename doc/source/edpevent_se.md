@@ -102,6 +102,7 @@ waste_collection_schedule:
 To find your correct address, search for it on your service providers website:
 
 - [Boden](https://www.boden.se/boende-trafik/avfall-och-aterbruk/avfall-395A)
+- [Herrljunga & Vårgårda](https://www.remondisrecycling.se/hushallsavfall/herrljunga-vargarda/)
 - [Skellefteå](https://skelleftea.se/invanare/startsida/bygga-bo-och-miljo/avfall-och-atervinning/sophamtning---nar-toms-soporna)
 - [SSAM](https://ssam.se/mitt-ssam/hamtdagar.html)
 - [Uppsala Vatten](https://www.uppsalavatten.se/sjalvservice/hamtningar-och-berakningar/dag-for-sophamtning-och-slamtomning)
